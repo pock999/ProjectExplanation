@@ -8,28 +8,28 @@
 
 **起始畫面**
 <p align="center">
-  <img width="460" height="300" src="https://github.com/pock999/projectsite_prealpha_backup/blob/master/screenshot/home.jpg?raw=true">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pock999/ProjectExplanation/master/screenshot/home.jpg?raw=true">
 </p>
 
 **作物清單畫面**
 <p align="center">
-  <img width="460" height="300" src="https://github.com/pock999/projectsite_prealpha_backup/blob/master/screenshot/index.PNG?raw=true">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pock999/ProjectExplanation/master/screenshot/index.PNG?raw=true">
 </p>
 
 **作物資料畫面**
 <p align="center">
-  <img width="460" height="300" src="https://github.com/pock999/projectsite_prealpha_backup/blob/master/screenshot/chart.gif?raw=true">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pock999/ProjectExplanation/master/screenshot/chart.gif?raw=true">
 </p>
 
 **搜尋畫面**
 <p align="center">
-  <img width="460" height="300" src="https://github.com/pock999/projectsite_prealpha_backup/blob/master/screenshot/search.gif?raw=true">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pock999/ProjectExplanation/master/screenshot/search.gif?raw=true">
 </p>
 
 ## 整體架構
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/pock999/projectsite_prealpha_backup/blob/master/screenshot/arch.JPG?raw=true">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/pock999/ProjectExplanation/master/screenshot/arch.JPG?raw=true">
 </p>
 
 ## 使用技術
